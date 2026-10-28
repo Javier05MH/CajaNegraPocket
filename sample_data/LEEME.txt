@@ -1,0 +1,7 @@
+AVISO: el fichero DEMO_SINTETICA_NO_ES_TRAYECTO_REAL.csv contiene valores inventados exclusivamente para enseñar la estructura del CSV y la apertura en una hoja de cálculo. No se ha medido en un vehículo y NO cumple el requisito de la actividad de adjuntar un trayecto real.
+
+Para completar la entrega:
+1. Instala y ejecuta la app en un móvil físico.
+2. Realiza una prueba real y segura con el móvil sujeto y una persona acompañante a cargo del registro.
+3. Pulsa «Detener y exportar» y guarda el CSV original.
+4. Copia el archivo exportado sin editarlo en esta carpeta y sustituye la demo solo después de conservarla identificada como sintética.

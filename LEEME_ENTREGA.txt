@@ -1,0 +1,14 @@
+ENTREGA: CAJANEGRAPOCKET — KINETRACE LABS
+
+Contenido:
+- Oferta_Tecnica_CajaNegraPocket.docx: propuesta técnica y manual breve.
+- Oferta_Tecnica_CajaNegraPocket.pdf: vista lista para leer/imprimir.
+- Ficha_Variables.xlsx: tres hojas (Variables, Sensores, Fuentes).
+- app/: proyecto Android nativo Kotlin, código fuente.
+- sample_data/DEMO_SINTETICA_NO_ES_TRAYECTO_REAL.csv: ejemplo de formato, NO es una medición real.
+- docs/validacion_y_pendientes.md: comprobaciones y tareas que faltan.
+- README.md: estructura, compilación e instrucciones.
+
+IMPORTANTÍSIMO: este es un prototipo académico de partida. No se ha generado APK ni se ha podido probar la app en un teléfono físico desde este entorno. La altura ortométrica automática mediante modelo de geoide está pendiente. Para cumplir el enunciado completo hay que compilar e instalar, probar en un móvil, integrar/validar el modelo geoidal y añadir un CSV auténtico de una ruta real exportada sin retocar.
+
+Para la prueba en vehículo, el teléfono debe ir sujeto y una persona acompañante maneja la app. Quien conduce no la manipula y no se hacen maniobras forzadas en vías públicas.
